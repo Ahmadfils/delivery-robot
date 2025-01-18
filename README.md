@@ -1,0 +1,1 @@
+Un petit code amusant pour la livraison de mail aux differents endroit codé en vanillaJs. J'ai ajouté une visualisation sur <canvas> avec des cercles pour représenter les lieux, des routes entre eux et une animation du robot se déplaçant. 🚀🔴 Essaie la simulation et dis-moi si tu veux des améliorations ! 😊  
